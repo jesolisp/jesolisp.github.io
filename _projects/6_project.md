@@ -1,80 +1,106 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Matemáticas Discretas
+description: Plan de Estudios de la Licenciatura en Tecnología. Sistema Escolarizado. Modalidad Presencial
+img: assets/img/mate_discretas.png
+importance: 1
+category: Área de profundización
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Curso: Matemáticas Discretas
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+{% include figure.liquid loading="eager" path="assets/img/mate_discretas.png" title="Grafo" class="img-fluid rounded z-depth-1 max-width: 50%" %}
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Semestre
+<ul>
+  <li> Licenciatura en Tecnología, 4to semestre. </li>
+  <li> Área de profundización: Ciencias de la Computación y Matemáticas. </li>
+</ul>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Impartido por:
+<ul>
+  <li> Dr. Jesús Emmanuel Solís Pérez </li>
+  <li> Email: jsolisp@unam.mx </li>
+</ul>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Prerequisitos
+<ol>
+ <li> Cálculo I y II, Álgebra Lineal y Geometría Analítica, Variable Compleja </li>
+</ol>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Software requerido y herramientas
+<ul>
+ <li> Logisim. </li>
+ <li> Sistema operativo: Windows 10, Linux, o macOS. </li>
+ <li> Web Browser: Google Chrome, Opera o Firefox. </li>
+ <li> Jupyter Notebook, Python. </li>
+ <li> Sistema de control de versiones.</li>
+</ul>
 
-{% raw %}
+## Objetivos generales
+El alumnado sintetizará los conceptos matemáticos aplicables para la resolución de problemas en computación, procesamiento de información y diseño de computadoras.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Objetivos específicos
+<ol>
+ <li> El alumnado comprenderá el concepto de lógica matemática y lo aplicará en la solución de problemas en el área de la tecnología desde un enfoque de computación. </li>
+ <li> El alumnado abordará los conceptos de relaciones, conjuntos y pruebas matemáticas desde un enfoque computacional y aplicará estos conceptos para la solución de problemas en el área de computación. </li>
+ <li> El alumnado comprenderá la teoría de sistemas algebraicos y los aplicará en el campo de la computación, con un énfasis en las áreas de álgebra booleana, códigos de comunicaciones y circuitos de dos estados. </li>
+ <li> El alumnado abordará la teoría de grafos y la aplicará para la resolución de problemas en computación y redes. </li>
+ <li> El alumnado comprenderá la teoría de la computabilidad para determinar la complejidad de funciones y problemas. Además, aplicará esta teoría para plantear soluciones eficientes. </li>
+</ol>
 
-{% endraw %}
+## Contenido del curso
+<ol>
+ <li> Lógica proposicional y predicados. </li>
+  <ul>
+   <li> Formulas proposicionales y tablas de verdad. </li>
+   <li> Formas normales. </li>
+   <li> Elementos de inferencia para el cálculo proposicional. </li>
+   <li> Prueba automática de teoremas. </li>
+   <li> Cálculo de predicados. </li>
+  </ul>
+ <li> Conjuntos, relaciones y pruebas formales. </li>
+  <ul>
+   <li> Conjuntos. </li>
+   <li> Relaciones y funciones. </li>
+   <li> Funciones de dispersión. </li>
+   <li> Inducción matemática. </li>
+   <li> Análisis combinatorio. </li>
+  </ul>
+ <li> Sistemas algebráicos. </li>
+  <ul>
+   <li> Introducción a sistemas algebraicos. </li>
+   <li> Algebra booleana. </li>
+   <li> Funciones booleanas y minimización. </li>
+   <li> Compuertas booleanas. </li>
+  </ul>
+ <li> Teorı́a de grafos. </li>
+  <ul>
+   <li> Conceptos básicos y definiciones. </li>
+   <li> Representaciones. </li>
+   <li> Notación matricial. </li>
+   <li> Manipulación de grafos. </li>
+   <li> Árboles. </li>
+  </ul>
+ <li> Teorı́a de la computabilidad. </li>
+  <ul>
+   <li> Definiciones. </li>
+   <li> Problemas de decisión. </li>
+   <li> Problemas computables. </li>
+   <li> Problemas NP. </li>
+  </ul>
+</ol>
+
+## Bibliografía básica
+<ol>
+ <li> Epp, S. S. (2014). Discrete Mathematics: Introduction to Mathematical Reasoning. Cengage Learning. </li>
+ <li> Johnsonbaugh, R. (2017). Discrete Mathematics. Pearson Educación. </li>
+ <li> Vinay, K. (2018). Discrete Mathematics. BPB Publications. </li>
+</ol>
+
+## Bibliografía complementaria
+<ol>
+ <li> Hunter, D. J. (2010). Essentials of Discrete Mathematics. Jones & Bartlett Publishers. </li>
+</ol>

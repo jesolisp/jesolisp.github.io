@@ -1,80 +1,91 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Modelación de Sistemas Físicos
+description: Plan de Estudios de la Licenciatura en Tecnología. Sistema Escolarizado. Modalidad Presencial
+img: assets/img/closed_loop.png
+importance: 1
+category: Optativas
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Curso: Modelación de sistemas físicos
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+{% include figure.liquid loading="eager" path="assets/img/closed_loop.png" title="Oscilador de Duffing" class="img-fluid rounded z-depth-1" %}
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Semestre
+<ul>
+  <li> Licenciatura en Tecnología, 5to, 6to, 7mo, 8vo semestre. </li>
+</ul>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Impartido por:
+<ul>
+  <li> Dr. Jesús Emmanuel Solís Pérez </li>
+  <li> Email: jsolisp@unam.mx </li>
+</ul>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Prerequisitos
+<ol>
+ <li>Dinámica de Sistemas Físicos </li>
+</ol>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Software requerido y herramientas
+<ol>
+ <li>Python & Jupyter Notebook. </li>
+ <li>Sistema operativo: Windows 10, Linux, o macOS.</li>
+ <li>Web Browser: Google Chrome, Opera o Firefox.</li>
+ <li>Markdown para escribir documentación.</li>
+ <li>Sistema de control de versiones.</li>
+</ol>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Objetivo general
 
-{% raw %}
+Se introducirán al alumno los conceptos básicos de dinámicas de sistemas, los métodos para el modelado, análisis cuantitativos y cualitativos, así como identificación de estos sistemas.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Contenido del curso
 
-{% endraw %}
+<ol>
+ <li> Introducción al Análisis de la Dinámica de Sistemas. </li>
+  <ul>
+   <li> Ejemplos prácticos. </li>
+  </ul>
+ <li> Antecedentes Matemáticos. </li>
+  <ul>
+   <li> Ecuaciones diferenciasles no lineales. </li>
+   <li> Análisis de la existencia, unicidad y continuidad de soluciones. </li>
+  </ul>
+ <li> Fundamentos del Análisis de Estabilidad en el Sentido de Lyapunov. </li>
+  <ul>
+   <li> Localización de los puntos de equilibrio. </li>
+   <li> Estabilidad de los puntos de equilibrio. </li>
+   <li> Linealización de sistemas en torno a un punto de equilibrio. </li>
+   <li> Análisis de la estabilidad de sistemas dinámicos linealizados. </li>
+   <li> Análisis de estabilidad por el Método Directo de Lyapunov. </li>
+  </ul>
+ <li> Controlabilidad de Sistemas Dinámicos. </li>
+  <ul>
+   <li> Concepto de controlabilidad. </li>
+   <li> Condiciones para la controlabilidad. </li>
+   <li> Formas canónicas de controlabilidad. </li>
+  </ul>
+ <li> Observabilidad de Sistemas Dinámicos. </li>
+  <ul>
+   <li> Concepto de observabilidad. </li>
+   <li> Teorema de Dualidad. </li>
+   <li> Formas irreductibles de un sistema dinámico. </li>
+  </ul>
+ <li> Identificación de Sistemas Dinámicos. </li>
+  <ul>
+   <li> Objetivo del problema de identificación. </li>
+   <li> Representación de sistemas dinámicos en forma lineal con respecto a los parámetros. </li>
+   <li> Métodos de estimación de parámetros. </li>
+   <li> Diseño de experimentos para la identificación paramétrica. </li>
+  </ul>
+</ol>
+
+## Libros de apoyo
+<ol>
+ <li> Nise, N. S. (2020). Control systems engineering. John Wiley & Sons. </li>
+ <li> Khalil, H. K. (2002). Nonlinear systems third edition. Patience Hall, 115. </li>
+ <li> Slotine, J. J. E., & Li, W. (1991). Applied nonlinear control (Vol. 199, No. 1, p. 705). Englewood Cliffs, NJ: Prentice hall. </li>
+ <li> Johansson, R. (1993). System modeling and identification. Prentice-hall. </li>
+</ol>
