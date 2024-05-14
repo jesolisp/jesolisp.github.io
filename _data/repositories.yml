@@ -1,12 +1,9 @@
-github_users:
-  - torvalds
-  - alshedivat
-
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jesolisp/Curso-Introduccion-Linux
+  - jesolisp/MEC_CLAS_2022_2
+  - jesolisp/Curso-Dinamica
+  - jesolisp/Fractional_Numerical_Methods
+  - jesolisp/NOTAS
+  - jesolisp/Curso-Proc-Imagenes
+  - jesolisp/Curso-Modelacion
+  - jesolisp/Curso-Optimizacion

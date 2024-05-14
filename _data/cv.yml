@@ -1,10 +1,10 @@
-- title: General Information
+- title: Información General
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Nombre completo
+      value: Jesús Emmanuel Solís Pérez
+    - name: Fecha de nacimiento
+      value: 08 de junio de 1989
     - name: Languages
       value: English, German
 
