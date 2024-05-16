@@ -3,3 +3,10 @@ La Dra. Wassila Ajbar es ingeniera química y posee does maestrías. La primera 
 Actualmente, está realizando una estancia postdoctoral en el Instituto de Ingeniería de la Universidad Nacional Autónoma de México (II-UNAM), donde desarrolla un proyecto de investigación centrado en el uso de redes neuronales convolucionales para caracterizar y analizar el flujo bifásico intermitente en tuberías de presión horizontal.
 
 Es Candidata en el Sistema Nacional de Investigadores del CONACYT y ejerce como profesora honorífica de asignatura en el CIICAp-UAEM y en el IIMAS-UNAM. También es revisora en las revistas JCR de Elsevier, tales como el Journal of Applied Energy, Applied Thermal Engineering, Case Studies in Thermal Engineering, Renewable and Sustainable Energy Reviews y Engineering Applications of Artificial Intelligence.
+
+<a href="https://www.researchgate.net/profile/Wassila-Ajbar">
+ <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/researchgate.svg" width="25" height="25">
+</a>
+<a href="https://scholar.google.com/citations?user=PiF2CWoAAAAJ&hl=es&oi=ao">
+ <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" width="25" height="25">
+</a>
