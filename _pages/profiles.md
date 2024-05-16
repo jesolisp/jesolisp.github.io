@@ -33,4 +33,16 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>jorgeld74@hotmail.com</p>
+  - align: right
+    image: prof_pic_wassila.jpg
+    content: about_wassila.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>correo@mail.com</p>
+  - align: left
+    image: prof_pic_arianna.jpg
+    content: about_arianna.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>correo@mail.com</p>
 ---

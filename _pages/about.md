@@ -15,12 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Ingeniero en Sistemas Computacionales con la especialidad en Sistemas Embebidos y Controles Lógicos por el Tecnológico Nacional de México, campus Zacatepec. Recibió el grado de Doctor en Ciencias en Ingeniería Electrónica en el área de Control Automático (con mención honorífica) por el Centro Nacional de Investigación y Desarrollo Tecnológico, Cuernavaca, Morelos en febrero de 2020.
+Ingeniero en Sistemas Computacionales con la especialidad en Sistemas Embebidos y Controles Lógicos por el Tecnológico Nacional de México, campus Zacatepec. Maestro y Doctor en Ciencias en Ingeniería Electrónica en el área de Control Automático por el Centro Nacional de Investigación y Desarrollo Tecnológico, Cuernavaca, Morelos.
 
-Realizó una estancia posdoctoral en el Centro de Investigación en Ingeniería y Ciencias Aplicadas de la Universidad Autónoma del Estado de Morelos con la propuesta de modelos de orden fraccionario para intercambiadores de calor y funciones de activación fraccionarias para redes neuronales artificiales directas.
+Realicé una estancia posdoctoral en el Centro de Investigación en Ingeniería y Ciencias Aplicadas de la Universidad Autónoma del Estado de Morelos con la propuesta de modelos de orden fraccionario para intercambiadores de calor y funciones de activación fraccionarias para redes neuronales artificiales directas.
 
-Es Investigador Nacional Nivel I y miembro de la Sociedad Mexicana de Computación Científica y sus Aplicaciones. Sus principales líneas de investigación son: ecuaciones diferenciales de orden fraccionario y sus aplicaciones en el modelado de sistemas dinámicos, aplicación de técnicas con cálculo fraccionario para el procesamiento de imágenes, optimización, así como aplicaciones de control de orden fraccionario.
-
-Es autor de diversos artículos en revistas indexadas, así como revisor invitado en las revistas Computational Intelligence Neuroscience, Mathematical Problems in Engineering y Mathematics.
-
-Durante su trayectoria académica ha impartido materias a nivel licenciatura y posgrado. Actualmente es profesor de tiempo completo, adscrito a la Licenciatura en Tecnología en la ENES Juriquilla.
+Soy Investigador Nacional Nivel I, miembro de la Sociedad Mexicana de Computación Científica y sus Aplicaciones así como de la Sociedad Matemática Mexicana. Mis principales líneas de investigación son: ecuaciones diferenciales de orden fraccionario y sus aplicaciones en el modelado de sistemas dinámicos, aplicación de técnicas con cálculo fraccionario para el procesamiento de imágenes, optimización, así como aplicaciones de control de orden fraccionario.
