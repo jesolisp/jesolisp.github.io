@@ -8,8 +8,6 @@ category: Área de profundización
 related_publications: false
 ---
 
-## Curso: Matemáticas Discretas
-
 {% include figure.liquid loading="eager" path="assets/img/mate_discretas.png" title="Grafo" class="img-fluid rounded z-depth-1 max-width: 50%" %}
 
 ## Semestre

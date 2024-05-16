@@ -8,8 +8,6 @@ category: Optativas
 related_publications: false
 ---
 
-# Curso: Modelación de sistemas físicos
-
 {% include figure.liquid loading="eager" path="assets/img/closed_loop.png" title="Oscilador de Duffing" class="img-fluid rounded z-depth-1" %}
 
 ## Semestre

@@ -8,8 +8,6 @@ category: Optativas
 related_publications: false
 ---
 
-# Curso: Tópicos selectos de matemáticas
-
 {% include figure.liquid loading="eager" path="assets/img/optimal.png" title="Óptimo" class="img-fluid rounded z-depth-1" %}
 
 ## Semestre

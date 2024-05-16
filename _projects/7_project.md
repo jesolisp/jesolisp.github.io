@@ -8,8 +8,6 @@ category: Optativas
 related_publications: false
 ---
 
-## Curso: Sistemas Embebidos
-
 {% include figure.liquid loading="eager" path="assets/img/embedded_systems.jpg" title="Sistema embebido" class="img-fluid rounded z-depth-1 max-width: 50%" %}
 
 ## Semestre
@@ -45,7 +43,7 @@ Comprender los conceptos, las técnicas básicas y aplicaciones de los sistemas 
 <ol>
  <li> Introducción a los Sistemas Embebidos. </li>
   <ul>
-   <li> Conceptos básicos.. </li>
+   <li> Conceptos básicos. </li>
    <li> Áreas de aplicación. </li>
    <li> ASIC, Procesadores y PSoC. </li>
    <li> Sistemas Embebidos y la ARM. </li>

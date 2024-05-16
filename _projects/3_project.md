@@ -8,8 +8,6 @@ category: Tronco común
 related_publications: false
 ---
 
-# Curso: Dinámica de sistemas físicos
-
 {% include figure.liquid loading="eager" path="assets/img/Duffing_frequency.png" title="Oscilador de Duffing" class="img-fluid rounded z-depth-1" %}
 
 ## Semestre

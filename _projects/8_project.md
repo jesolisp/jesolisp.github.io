@@ -2,15 +2,13 @@
 layout: page
 title: Procesamiento digital de imágenes
 description: Plan de Estudios de la Licenciatura en Tecnología. Sistema Escolarizado. Modalidad Presencial
-img: assets/img/embedded_systems.jpg
+img: assets/img/procesamiento_imagenes.jpg
 importance: 3
 category: Optativas
 related_publications: false
 ---
 
-# Curso: Tópicos selectos de matemáticas
-
-{% include figure.liquid loading="eager" path="assets/img/optimal.png" title="Óptimo" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/procesamiento_imagenes.png" title="Óptimo" class="img-fluid rounded z-depth-1" %}
 
 ## Semestre
 <ul>
