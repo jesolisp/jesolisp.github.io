@@ -19,4 +19,6 @@ Ingeniero en Sistemas Computacionales con la especialidad en Sistemas Embebidos 
 
 Realicé una estancia posdoctoral en el Centro de Investigación en Ingeniería y Ciencias Aplicadas de la Universidad Autónoma del Estado de Morelos con la propuesta de modelos de orden fraccionario para intercambiadores de calor y funciones de activación fraccionarias para redes neuronales artificiales directas.
 
-Soy Investigador Nacional Nivel I, miembro de la Sociedad Mexicana de Computación Científica y sus Aplicaciones así como de la Sociedad Matemática Mexicana. Mis principales líneas de investigación son: ecuaciones diferenciales de orden fraccionario y sus aplicaciones en el modelado de sistemas dinámicos, aplicación de técnicas con cálculo fraccionario para el procesamiento de imágenes, optimización, así como aplicaciones de control de orden fraccionario.
+Soy Investigador Nacional Nivel I, miembro de la Sociedad Mexicana de Computación Científica y sus Aplicaciones así como de la Sociedad Matemática Mexicana.
+
+Mis principales líneas de investigación son: ecuaciones diferenciales de orden fraccionario y sus aplicaciones en el modelado de sistemas dinámicos, aplicación de técnicas con cálculo fraccionario para el procesamiento de imágenes, optimización, así como aplicaciones de control de orden fraccionario.
