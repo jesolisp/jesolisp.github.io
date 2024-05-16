@@ -5,7 +5,7 @@ description: Plan de Estudios de la Licenciatura en Tecnología. Sistema Escolar
 img: assets/img/closed_loop.png
 importance: 1
 category: Optativas
-related_publications: true
+related_publications: false
 ---
 
 # Curso: Modelación de sistemas físicos

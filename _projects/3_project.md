@@ -5,7 +5,7 @@ description: Plan de Estudios de la Licenciatura en Tecnología. Sistema Escolar
 img: assets/img/Duffing_frequency.png
 importance: 1
 category: Tronco común
-related_publications: true
+related_publications: false
 ---
 
 # Curso: Dinámica de sistemas físicos

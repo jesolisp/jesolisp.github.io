@@ -5,7 +5,7 @@ description: Plan de Estudios de la Licenciatura en Tecnología. Sistema Escolar
 img: assets/img/mate_discretas.png
 importance: 1
 category: Área de profundización
-related_publications: true
+related_publications: false
 ---
 
 ## Curso: Matemáticas Discretas

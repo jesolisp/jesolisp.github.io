@@ -3,9 +3,9 @@ layout: page
 title: Sistemas Embebidos
 description: Plan de Estudios de la Licenciatura en Tecnología. Sistema Escolarizado. Modalidad Presencial
 img: assets/img/embedded_systems.jpg
-importance: 2
+importance: 3
 category: Optativas
-related_publications: true
+related_publications: false
 ---
 
 ## Curso: Sistemas Embebidos
@@ -43,7 +43,7 @@ Comprender los conceptos, las técnicas básicas y aplicaciones de los sistemas 
 
 ## Contenido del curso
 <ol>
- <li>  Introducción a los Sistemas Embebidos. </li>
+ <li> Introducción a los Sistemas Embebidos. </li>
   <ul>
    <li> Conceptos básicos.. </li>
    <li> Áreas de aplicación. </li>
