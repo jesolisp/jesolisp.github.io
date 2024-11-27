@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Docencia
-description: Materials for courses you taught. Replace this text with your description.
+description: Asignaturas curriculares obligatorias, curriculares optativas y cursos intersemestrales impartidos en la ENES Juriquilla.
 nav: true
-display_categories: [Tronco común, Área de profundización, Optativas]
+display_categories: [Tronco común, Área de profundización, Optativas, Intersemestrales]
 nav_order: 6
 ---
 

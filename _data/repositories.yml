@@ -1,9 +1,8 @@
 github_repos:
-  - jesolisp/Curso-Introduccion-Linux
-  - jesolisp/MEC_CLAS_2022_2
-  - jesolisp/Curso-Dinamica
+  - jesolisp/Curso-Introduccion-Aprendizaje-Automatico
+  - jesolisp/Curso-Modelacion-Sistemas-Fisicos
+  - jesolisp/Curso-Dinamica-Sistemas-Fisicos
   - jesolisp/Fractional_Numerical_Methods
-  - jesolisp/NOTAS
-  - jesolisp/Curso-Proc-Imagenes
-  - jesolisp/Curso-Modelacion
+  - jesolisp/Curso-Taller-Computo
+  - jesolisp/Curso-Introduccion-Linux
   - jesolisp/Curso-Optimizacion
