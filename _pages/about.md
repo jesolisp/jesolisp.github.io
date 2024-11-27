@@ -6,7 +6,7 @@ subtitle: <a href='https://www.enesjuriquilla.unam.mx/?page_id=4700'>Afiliación
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Profesor Asociado de Tiempo Completo</p>
