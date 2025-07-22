@@ -2,13 +2,13 @@
 layout: page
 title: Dinámica de Sistemas Físicos
 description: Plan de Estudios de la Licenciatura en Tecnología. Sistema Escolarizado. Modalidad Presencial
-img: assets/img/Duffing_frequency.png
+img: assets/img/dynamic_systems.png
 importance: 1
 category: Tronco común
 related_publications: false
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/Duffing_frequency.png" title="Oscilador de Duffing" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/dynamic_systems.png" title="Oscilador de Duffing" class="img-fluid rounded z-depth-1" %}
 
 ## Semestre
 <ul>
@@ -19,9 +19,8 @@ related_publications: false
 <ul>
   <li> Dr. Jesús Emmanuel Solís Pérez </li>
   <li> Email: jsolisp@unam.mx </li>
-  <li> Repositorio del curso: (https://jesolisp.github.io/Curso-Dinamica-Sistemas-Fisicos/docs/home.html)[https://jesolisp.github.io/Curso-Dinamica-Sistemas-Fisicos/docs/home.html] </li>
+  <li> Repositorio del curso: <a href="https://jesolisp.github.io/Curso-Dinamica-Sistemas-Fisicos/docs/home.html">https://jesolisp.github.io/Curso-Dinamica-Sistemas-Fisicos</a> </li>
 </ul>
-
 
 ## Prerequisitos
 <ol>
@@ -94,6 +93,8 @@ Al terminar el curso, el alumnado utilizará las herramientas básicas para el m
 
 ## Libros de apoyo
 <ol>
- <li> Ogata, K. (1978). System dynamics. Englewood Cliffs. </li>
  <li> Nise, N. S. (2020). Control systems engineering. John Wiley & Sons. </li>
+ <li> Khalil, H. K. (2002). Nonlinear systems third edition. Patience Hall, 115. </li>
+ <li> Slotine, J. J. E., & Li, W. (1991). Applied nonlinear control (Vol. 199, No. 1, p. 705). Englewood Cliffs, NJ: Prentice hall. </li>
+ <li> Johansson, R. (1993). System modeling and identification. Prentice-hall. </li>
 </ol>

@@ -19,7 +19,7 @@ related_publications: false
 <ul>
   <li> Dr. Jesús Emmanuel Solís Pérez </li>
   <li> Email: jsolisp@unam.mx </li>
-  <li> Repositorio del curso: (https://jesolisp.github.io/Curso-Modelacion-Sistemas-Fisicos/docs/home.html)[https://jesolisp.github.io/Curso-Modelacion-Sistemas-Fisicos/docs/home.html] </li>
+  <li> Repositorio del curso: <a href="https://jesolisp.github.io/Curso-Modelacion-Sistemas-Fisicos/docs/home.html">https://jesolisp.github.io/Curso-Modelacion-Sistemas-Fisicos</a> </li>
 </ul>
 
 ## Prerequisitos
