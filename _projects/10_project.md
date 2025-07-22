@@ -50,7 +50,7 @@ Al terminar el curso, el alumnado aplicará los conceptos fundamentales de la te
 
 ## Contenido del curso
 
-<ul>
+<ol>
   <li>
     I. Introducción y ecuaciones diferenciales de primer orden
     <ul>
@@ -184,7 +184,7 @@ Al terminar el curso, el alumnado aplicará los conceptos fundamentales de la te
       <li>Resolución de problemas de condiciones iniciales y de frontera: ecuaciones de onda, de calor y de Laplace con dos variables independientes.</li>
     </ul>
   </li>
-</ul>
+</ol>
 
 
 ## Bibliografía básica
