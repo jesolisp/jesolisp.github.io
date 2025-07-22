@@ -49,13 +49,143 @@ Al terminar el curso, el alumnado aplicará los conceptos fundamentales de la te
 </ol>
 
 ## Contenido del curso
-| **Unidad** | **Tema** | **Contenido** |
-|:---:|:---:|:---|
-| I | Introducción y ecuaciones diferenciales de primer orden | <ul> <li> Definición de ecuación diferencial <ul> <li> Clasificación por tipo. </li> <li> Clasificación por orden. </li> <li> Clasificación por linealidad. </li> <li> Soluciones. </li> </ul> </li> <li> Problemas con valor inicial <ul> <li> Problemas con valor inicial. </li> <li> Existencia y unicidad. </li> </ul> </li> <li> Curvas solución <ul> <li> ED de primer orden autónomas. </li> <li> Puntos críticos. </li> <li> Curvas solución. </li> <li> Atractores y repulsores. </li> </ul> </li> <li> Solución de ecuaciones diferenciales de primer orden <ul> <li> Variables separables. </li> <li> Ecuaciones lineales. </li> <li> Ecuaciones exactas. </li> <li> Soluciones por sustitución. </li> <li> Ecuaciones homogéneas. </li> <li> Ecuación de Bernoulli. </li> <li> Métodos numéricos. </li> </ul> </li> |
-| II | Ecuaciones diferenciales lineales | <ul> <li> Problemas de valor inicial y valor de frontera </li> <li> Ecuaciones homogéneas y no homogéneas <ul> <li> Ecuaciones homogéneas y no homogéneas. </li> <li> Operadores diferenciales. </li> <li> Ecuaciones diferenciales. </li> <li> Principio de superposición. </li> <li> Dependencia e idependencia lineal. </li> <li> Función complementaria. </li> </ul> </li> <li> Ecuaciones lineales homogéneas con coeficientes constantes <ul> <li> Caso I. Raíces reales y distintas. </li> <li> Caso II. Raíces reales repetidas. </li> <li> Caso III. Raíces complejas conjugadas. </li> <li> Ecuaciones de orden superior. </li> </ul> </li> <li> Variación de parámetros </li> <li> Ecuación de Cauchy-Euler <ul> <li> Caso I. Raíces reales y distintas. </li> <li> Caso II. Raíces reales repetidas. </li> <li> Caso III. Raíces complejas conjugadas. </li> </ul> </li> </ul> |
-| III | Sistemas de ecuaciones diferenciales lineales | <ul> <li> Sistemas de ED lineales de primer orden <ul> <li> Diagramas de fase. </li> </ul> </li> <li> Matriz exponencial <ul> <li> Sistemas no homogéneos. </li> </ul> </li> <li> Modelado con ecuaciones diferenciales de primer orden <ul> <li> Crecimiento y decaimiento. </li> <li> Ley de Newton de enfriamiento o calentamiento. </li> <li> Circuitos en serie. </li> </ul> </li> </ul> |
-| IV | Transformada de Laplace | <ul> <li> Definición de la transformada de Laplace <ul> <li> Propiedades de la transformada de Laplace. </li> <li> Convolución. </li> <li> Transformada de una integral. </li> <li> Ecuación integral de Volterra. </li> </ul> </li> <li> Sistemas de ecuaciones diferenciales lineales <ul> <li> Resortes acoplados. </li> <li> Red eléctrica. </li> <li> Péndulo simple. </li> </ul> </li> </ul> |
-| V | Introducción a las ecuaciones diferenciales en derivadas parciales | <li> Definición de ecuaciones en derivadas parciales. Definición de orden de una ecuación en derivadas parciales. Ecuación en derivadas parciales lineal y no lineal. Solución de la ecuación en derivadas parciales: completa, general y particular. </li> <li> El método de separación de variables. </li> <li> Serie trigonométrica de Fourier. Serie seno de Fourier. Serie coseno de Fourier. Cálculo de los coeficientes de la serie trigonométrica de Fourier. </li> <li> Resolución de problemas de condiciones iniciales y de frontera: ecuaciones de onda, de calor y de Laplace con dos variables independientes. </li> |
+
+<ul>
+  <li>
+    I. Introducción y ecuaciones diferenciales de primer orden
+    <ul>
+      <li>
+        Definición de ecuación diferencial
+        <ul>
+          <li>Clasificación por tipo.</li>
+          <li>Clasificación por orden.</li>
+          <li>Clasificación por linealidad.</li>
+          <li>Soluciones.</li>
+        </ul>
+      </li>
+      <li>
+        Problemas con valor inicial
+        <ul>
+          <li>Problemas con valor inicial.</li>
+          <li>Existencia y unicidad.</li>
+        </ul>
+      </li>
+      <li>
+        Curvas solución
+        <ul>
+          <li>ED de primer orden autónomas.</li>
+          <li>Puntos críticos.</li>
+          <li>Curvas solución.</li>
+          <li>Atractores y repulsores.</li>
+        </ul>
+      </li>
+      <li>
+        Solución de ecuaciones diferenciales de primer orden
+        <ul>
+          <li>Variables separables.</li>
+          <li>Ecuaciones lineales.</li>
+          <li>Ecuaciones exactas.</li>
+          <li>Soluciones por sustitución.</li>
+          <li>Ecuaciones homogéneas.</li>
+          <li>Ecuación de Bernoulli.</li>
+          <li>Métodos numéricos.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    II. Ecuaciones diferenciales lineales
+    <ul>
+      <li>Problemas de valor inicial y valor de frontera</li>
+      <li>
+        Ecuaciones homogéneas y no homogéneas
+        <ul>
+          <li>Ecuaciones homogéneas y no homogéneas.</li>
+          <li>Operadores diferenciales.</li>
+          <li>Ecuaciones diferenciales.</li>
+          <li>Principio de superposición.</li>
+          <li>Dependencia e idependencia lineal.</li>
+          <li>Función complementaria.</li>
+        </ul>
+      </li>
+      <li>
+        Ecuaciones lineales homogéneas con coeficientes constantes
+        <ul>
+          <li>Caso I. Raíces reales y distintas.</li>
+          <li>Caso II. Raíces reales repetidas.</li>
+          <li>Caso III. Raíces complejas conjugadas.</li>
+          <li>Ecuaciones de orden superior.</li>
+        </ul>
+      </li>
+      <li>Variación de parámetros</li>
+      <li>
+        Ecuación de Cauchy-Euler
+        <ul>
+          <li>Caso I. Raíces reales y distintas.</li>
+          <li>Caso II. Raíces reales repetidas.</li>
+          <li>Caso III. Raíces complejas conjugadas.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    III. Sistemas de ecuaciones diferenciales lineales
+    <ul>
+      <li>
+        Sistemas de ED lineales de primer orden
+        <ul>
+          <li>Diagramas de fase.</li>
+        </ul>
+      </li>
+      <li>
+        Matriz exponencial
+        <ul>
+          <li>Sistemas no homogéneos.</li>
+        </ul>
+      </li>
+      <li>
+        Modelado con ecuaciones diferenciales de primer orden
+        <ul>
+          <li>Crecimiento y decaimiento.</li>
+          <li>Ley de Newton de enfriamiento o calentamiento.</li>
+          <li>Circuitos en serie.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    IV. Transformada de Laplace
+    <ul>
+      <li>
+        Definición de la transformada de Laplace
+        <ul>
+          <li>Propiedades de la transformada de Laplace.</li>
+          <li>Convolución.</li>
+          <li>Transformada de una integral.</li>
+          <li>Ecuación integral de Volterra.</li>
+        </ul>
+      </li>
+      <li>
+        Sistemas de ecuaciones diferenciales lineales
+        <ul>
+          <li>Resortes acoplados.</li>
+          <li>Red eléctrica.</li>
+          <li>Péndulo simple.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    V. Introducción a las ecuaciones diferenciales en derivadas parciales
+    <ul>
+      <li>Definición de ecuaciones en derivadas parciales. Definición de orden de una ecuación en derivadas parciales. Ecuación en derivadas parciales lineal y no lineal. Solución de la ecuación en derivadas parciales: completa, general y particular.</li>
+      <li>El método de separación de variables.</li>
+      <li>Serie trigonométrica de Fourier. Serie seno de Fourier. Serie coseno de Fourier. Cálculo de los coeficientes de la serie trigonométrica de Fourier.</li>
+      <li>Resolución de problemas de condiciones iniciales y de frontera: ecuaciones de onda, de calor y de Laplace con dos variables independientes.</li>
+    </ul>
+  </li>
+</ul>
+
 
 ## Bibliografía básica
 <ol>

@@ -8,7 +8,7 @@ category: Tronco común
 related_publications: false
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/dynamic_systems.png" title="Oscilador de Duffing" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/dynamic_systems.png" title="Dinámica de sistemas" class="img-fluid rounded z-depth-1" %}
 
 ## Semestre
 <ul>
