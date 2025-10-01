@@ -30,17 +30,6 @@ profiles:
         <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" width="25" height="25">
       </a>
   - align: right
-    image: prof_pic_antonio.jpg
-    content: about_antonio.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <a href="https://www.researchgate.net/profile/Antonio-Coronel-Escamilla">
-        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/researchgate.svg" width="25" height="25">
-      </a>
-      <a href="https://scholar.google.com/citations?user=kNkXE_cAAAAJ">
-        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" width="25" height="25">
-      </a>
-  - align: left
     image: prof_pic_lavin.jpg
     content: about_lavin.md
     image_circular: false # crops the image to make it circular
@@ -51,7 +40,7 @@ profiles:
       <a href="https://scholar.google.com.mx/citations?user=u3NyyCEAAAAJ&hl=es">
         <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" width="25" height="25">
       </a>
-  - align: right
+  - align: left
     image: prof_pic_wassila.jpg
     content: about_wassila.md
     image_circular: false # crops the image to make it circular
@@ -61,7 +50,7 @@ profiles:
       </a><a href="https://scholar.google.com/citations?user=PiF2CWoAAAAJ&hl=es&oi=ao">
         <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" width="25" height="25">
       </a>
-  - align: left
+  - align: right
     image: prof_pic_arianna.jpg
     content: about_arianna.md
     image_circular: false # crops the image to make it circular
