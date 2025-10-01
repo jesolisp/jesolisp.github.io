@@ -1,3 +1,8 @@
+github_users:
+  - jesolisp
+
+repo_description_lines_max: 2
+
 github_repos:
   - jesolisp/Curso-Introduccion-Aprendizaje-Automatico
   - jesolisp/Curso-Modelacion-Sistemas-Fisicos
