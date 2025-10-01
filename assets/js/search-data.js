@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-docencia",
           title: "Docencia",
           description: "Asignaturas curriculares obligatorias, curriculares optativas y cursos intersemestrales impartidos en la ENES Juriquilla.",
@@ -44,8 +51,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-tesis-desarrolladas",
-          title: "Tesis desarrolladas",
+        },{id: "nav-tesis",
+          title: "Tesis",
           description: "Tesis de licenciatura, maestría y doctorado.",
           section: "Navigation",
           handler: () => {
