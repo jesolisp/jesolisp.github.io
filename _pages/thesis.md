@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tesis desarrolladas
+title: Tesis
 permalink: /thesis/
 description: Tesis de licenciatura, maestría y doctorado.
 nav: true
