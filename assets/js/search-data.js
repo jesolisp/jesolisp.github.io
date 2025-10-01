@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
+        },{id: "nav-tesis-desarrolladas",
+          title: "Tesis desarrolladas",
+          description: "Tesis de licenciatura, maestría y doctorado.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/thesis/";
+          },
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
