@@ -74,6 +74,11 @@ ninja.data = [{
           description: "Plan de Estudios de la Licenciatura en Tecnología. Sistema Escolarizado. Modalidad Presencial",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
+            },},{id: "projects-mejora-del-desempeño-de-la-tasa-de-transferencia-de-calor-en-una-bomba-geotérmica",
+          title: 'Mejora del desempeño de la tasa de transferencia de calor en una bomba...',
+          description: "Mejora del desempeño de la tasa de transferencia de calor en una bomba geotérmica",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
             },},{id: "projects-papiit-ta100223",
           title: 'PAPIIT TA100223',
           description: "Programación e implementación de esquemas numéricos en paralelo para soluciones aproximadas a ecuaciones diferenciales ordinarias así como parciales de orden fraccionario",
