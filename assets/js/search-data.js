@@ -76,7 +76,7 @@ ninja.data = [{
               window.location.href = "/projects/10_project/";
             },},{id: "projects-mejora-del-desempeño-de-la-tasa-de-transferencia-de-calor-en-una-bomba-geotérmica",
           title: 'Mejora del desempeño de la tasa de transferencia de calor en una bomba...',
-          description: "Mejora del desempeño de la tasa de transferencia de calor en una bomba geotérmica",
+          description: "Instituto de Investigación en Ciencias Básicas y Aplicadas, UAEM.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
             },},{id: "projects-papiit-ta100223",
