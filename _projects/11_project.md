@@ -11,7 +11,7 @@ related_publications: false
 # Hipótesis
 La aplicación de un algoritmo de optimización distinto (Levenberg-Marquardt) y un modelo matemático logarítmico sigmoidal mejora el coeficiente de determinación (𝑅²), lo que implica una mejor predicción.
 
-# Objetivos
+# Objetivo general
 Desarrollar modelos matemáticos (lineal y no lineales) para evaluar y mejorar el desempeño de la tasa de transferencia de calor de una GSHP.
 
 # Objetivos específicos
