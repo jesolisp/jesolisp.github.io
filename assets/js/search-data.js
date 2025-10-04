@@ -79,26 +79,6 @@ ninja.data = [{
           description: "Instituto de Investigación en Ciencias Básicas y Aplicadas, UAEM.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
-            },},{id: "projects-sintonización-de-controladores-pi-mediante-optimización-de-enjambre-de-partículas-para-su-integración-a-una-interfaz-gráfica",
-          title: 'Sintonización de controladores PI mediante optimización de enjambre de partículas para su integración...',
-          description: "Universidad Politécnica del Estado de Morelos.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/12_project/";
-            },},{id: "projects-diseño-de-un-sistema-de-monitoreo-de-co2-para-reducir-la-probabilidad-de-contagio-de-sars-cov-2-en-espacios-cerrados",
-          title: 'Diseño de un sistema de monitoreo de Co2 para reducir la probabilidad de...',
-          description: "Universidad Politécnica del Estado de Morelos.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/13_project/";
-            },},{id: "projects-transferencia-de-calor-de-una-bomba-geotérmica-utilizando-inteligencia-artificial",
-          title: 'Transferencia de calor de una bomba geotérmica utilizando inteligencia artificial',
-          description: "Instituto de Investigación en Ciencias Básicas y Aplicadas, UAEM.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/14_project/";
-            },},{id: "projects-diseño-de-filtros-fraccionarios-de-orden-complejo-constante-y-variable-aplicados-a-la-reconstrucción-de-imágenes-médicas",
-          title: 'Diseño de filtros fraccionarios de orden complejo constante y variable aplicados a la...',
-          description: "Centro Nacional de Investigación y Desarrollo Tecnológico, TecNM.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/15_project/";
             },},{id: "projects-papiit-ta100223",
           title: 'PAPIIT TA100223',
           description: "Programación e implementación de esquemas numéricos en paralelo para soluciones aproximadas a ecuaciones diferenciales ordinarias así como parciales de orden fraccionario",
