@@ -48,7 +48,7 @@
       "location": "Cuernavaca, Morelos",
       "url": "https://cenidet.tecnm.mx",
       "area": "Control Automático",
-      "studyType": "Dr.",
+      "studyType": "Doctor en Ciencias en Ingeniería Electrónica",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
@@ -59,7 +59,7 @@
       "location": "Cuernavaca, Morelos",
       "url": "https://cenidet.tecnm.mx",
       "area": "Control Automático",
-      "studyType": "MC.",
+      "studyType": "Maestro en Ciencias en Ingeniería Electrónica",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
@@ -70,39 +70,26 @@
       "location": "Zacatepec, Morelos",
       "url": "https://cenidet.tecnm.mx",
       "area": "Sistemas Embebidos",
-      "studyType": "ISC.",
+      "studyType": "Ingeniero en Sistemas Computacionales",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
       "courses": []
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Cálculo fraccionario",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Procesamiento de imágenes",
+        "Procesamiento de señales",
+        "Optimización",
+        "Sistemas Dinámicos",
+        "Control",
+        "Caos",
+        "Métodos numéricos",
+        "Inteligencia Artificial"
       ]
     }
   ],
