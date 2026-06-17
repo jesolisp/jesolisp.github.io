@@ -109,6 +109,11 @@ ninja.data = [{
           description: "Modelado de sistemas físicos y su análisis dinámico utilizando cálculo fraccionario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/17_project/";
+            },},{id: "projects-análisis-numérico",
+          title: 'Análisis Numérico',
+          description: "Plan de Estudios de la Licenciatura en Matemáticas para el Desarrollo. Sistema Escolarizado. Modalidad Presencial",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/18_project/";
             },},{id: "projects-papiit-ta100223",
           title: 'PAPIIT TA100223',
           description: "Programación e implementación de esquemas numéricos en paralelo para soluciones aproximadas a ecuaciones diferenciales ordinarias así como parciales de orden fraccionario",
