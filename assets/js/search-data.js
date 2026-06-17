@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publicaciones",
-          title: "Publicaciones",
-          description: "Artículos y capítulos de libros publicados.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-proyectos",
+  },{id: "nav-proyectos",
           title: "Proyectos",
           description: "Proyectos de docencia e investigación.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/proyectos/";
+          },
+        },{id: "nav-publicaciones",
+          title: "Publicaciones",
+          description: "Artículos y capítulos de libros publicados.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "nav-repositorios",
           title: "Repositorios",
