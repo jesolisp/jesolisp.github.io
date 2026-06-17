@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jesús Emmanuel Solís Pérez",
-    "label": "Profesor Asociado de Tiempo Completo",
+    "label": "Profesor de Tiempo Completo",
     "image": "prof_pic.jpeg",
     "email": "jsolisp@unam.mx",
     "phone": "",
@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Escuela Nacional de Estudios Superiores Unidad Juriquilla, UNAM",
-      "position": "Profesor Asociado de Tiempo Completo",
+      "position": "Profesor de Tiempo Completo",
       "url": "https://www.enesjuriquilla.unam.mx",
       "startDate": "2021-10-01",
       "endDate": "",
@@ -94,6 +94,14 @@
     }
   ],
   "projects": [
+    {
+      "name": "PAPIIT IA102525",
+      "summary": "Modelado de sistemas físicos y su análisis dinámico utilizando cálculo fraccionario.",
+      "highlights": [],
+      "startDate": "2025-01-01",
+      "endDate": "2026-12-31",
+      "url": "https://jesolisp.github.io/projects/1_project/"
+    },
     {
       "name": "PAPIIT TA100223",
       "summary": "Programación e implementación de esquemas numéricos en paralelo para soluciones aproximadas a ecuaciones diferenciales ordinarias así como parciales de orden fraccionario.",
