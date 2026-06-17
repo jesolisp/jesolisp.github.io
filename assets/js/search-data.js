@@ -104,6 +104,11 @@ ninja.data = [{
           description: "Centro Nacional de Investigación y Desarrollor Tecnológico, TecNM.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16_project/";
+            },},{id: "projects-papiit-ia102525",
+          title: 'PAPIIT IA102525',
+          description: "Modelado de sistemas físicos y su análisis dinámico utilizando cálculo fraccionario",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/17_project/";
             },},{id: "projects-papiit-ta100223",
           title: 'PAPIIT TA100223',
           description: "Programación e implementación de esquemas numéricos en paralelo para soluciones aproximadas a ecuaciones diferenciales ordinarias así como parciales de orden fraccionario",
