@@ -5,7 +5,7 @@ permalink: /thesis/
 description: Tesis de licenciatura, maestría y doctorado.
 nav: true
 nav_order: 8
-display_categories: [Licenciatura, Maestría, Doctorado]
+display_categories: [Licenciatura, Maestría, Doctorado, Doctorado en desarrollo]
 horizontal: false
 ---
 
