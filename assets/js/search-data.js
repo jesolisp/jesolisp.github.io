@@ -114,11 +114,21 @@ ninja.data = [{
           description: "Plan de Estudios de la Licenciatura en Matemáticas para el Desarrollo. Sistema Escolarizado. Modalidad Presencial",
           section: "Projects",handler: () => {
               window.location.href = "/projects/18_project/";
+            },},{id: "projects-19-project",
+          title: '19_project',
+          description: "Instituto de Investigación en Ciencias Básicas y Aplicadas, UAEM.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/19_project/";
             },},{id: "projects-papiit-ta100223",
           title: 'PAPIIT TA100223',
           description: "Programación e implementación de esquemas numéricos en paralelo para soluciones aproximadas a ecuaciones diferenciales ordinarias así como parciales de orden fraccionario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-20-project",
+          title: '20_project',
+          description: "Tecnológico Nacional de México Campus Apizaco.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/20_project/";
             },},{id: "projects-papime-pe108324",
           title: 'PAPIME PE108324',
           description: "Diseño y desarrollo de un laboratorio de impresión 3D para la enseñanza",
