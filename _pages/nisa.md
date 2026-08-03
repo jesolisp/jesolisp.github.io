@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /laboratory/
-title: Non-Integer Systems & AI (NISA)
-description: Este laboratorio realiza análisis dinámicos de sistemas físicos mediante un enfoque fraccionario. Asimismo, emplea técnicas de procesamiento de imágenes y señales. Actualmente, se está explorando la inteligencia artificial desde la perspectiva de los operadores no enteros en su formulación matemática.
+title: Laboratorio
+description: En Non-Integer Systems & AI (NISA) se realizan análisis dinámicos de sistemas físicos mediante un enfoque fraccionario. También se emplean técnicas de procesamiento de imágenes y señales. Actualmente, se está explorando la inteligencia artificial desde la perspectiva de los operadores no enteros en su formulación matemática.
 nav: true
 nav_order: 9
 
