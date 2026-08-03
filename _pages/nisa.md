@@ -29,4 +29,14 @@ profiles:
       </a><a href="https://scholar.google.com.mx/">
         <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" width="25" height="25">
       </a>
+  - align: right
+    image: prof_pic_jdpg.jpg
+    content: about_jonathan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <a href="https://www.researchgate.net/">
+        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/researchgate.svg" width="25" height="25">
+      </a><a href="https://scholar.google.com">
+        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" width="25" height="25">
+      </a>
 ---
