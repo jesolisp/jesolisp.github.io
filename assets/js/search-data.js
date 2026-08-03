@@ -58,6 +58,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/thesis/";
           },
+        },{id: "nav-non-integer-systems-amp-ai-nisa",
+          title: "Non-Integer Systems &amp; AI (NISA)",
+          description: "Este laboratorio realiza análisis dinámicos de sistemas físicos mediante un enfoque fraccionario. Asimismo, emplea técnicas de procesamiento de imágenes y señales. Actualmente, se está explorando la inteligencia artificial desde la perspectiva de los operadores no enteros en su formulación matemática.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/laboratory/";
+          },
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
