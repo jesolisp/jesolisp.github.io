@@ -8,13 +8,40 @@ category: Licenciatura
 related_publications: false
 ---
 
-# Objetivo general
+<div class="row mb-4">
+    <div class="col-md-12">
+        <p class="h5 text-muted font-italic">
+            <i class="fas fa-user-graduate"></i> Presenta: <strong>Cesia Betsaida Melo Álvarez</strong>
+        </p>
+    </div>
+</div>
+
+## <i class="fas fa-bullseye text-danger"></i> Objetivo General
 Sintonizar un controlador PI utilizando optimización por enjambre de partículas para obtener una dinámica deseada por un usuario para un sistema de primer orden.
 
-# Objetivos específicos
-1. Conocer las técnicas de sintonización de controladores PI.
-2. Conocer el comportamiento de un algoritmo de optimización (PSO).
-3. Sintonizar controladores con el uso de algoritmos de optimización.
-4. Analizar el desempeño de un controlador bajo el uso de algoritmos de  optimización.
-5. Generar el código para su mostrar resultados.
-6. Validar los resultados obtenidos con el código
+---
+
+## <i class="fas fa-tasks text-success"></i> Objetivos Específicos
+
+<div class="list-group mb-4">
+    <div class="list-group-item flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <ol>
+                <li>Conocer las técnicas de sintonización de controladores PI.</li>
+                <li>Conocer el comportamiento de un algoritmo de optimización (PSO).</li>
+                <li>Sintonizar controladores con el uso de algoritmos de optimización.</li>
+                <li>Analizar el desempeño de un controlador bajo el uso de algoritmos de  optimización.</li>
+                <li>Generar el código para su mostrar resultados.</li>
+                <li>Validar los resultados obtenidos con el código.</li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+---
+
+## <i class="fas fa-file-alt text-info"></i> Documento de Tesis
+
+| Recurso | Enlace Directo |
+| :---: | :--- |
+| **Repositorio institucional** | [Consultar Tesis en Línea](#) |

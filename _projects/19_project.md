@@ -37,51 +37,17 @@ Desarrollar una función de activación fundamentada en operadores de orden no e
 <div class="list-group mb-4">
     <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>1. Revisión de literatura</strong></h5>
+            <ol>
+                <li>Realizar una revisión sistemática de funciones de activación basadas en operadores clásicos y de orden no entero.</li>
+                <li>Formular matemáticamente una función de activación basada en el operador derivada de orden no entero $\mathcal{M}$-truncada.</li>
+                <li>Caracterizar el efecto del parámetro no entero sobre la propagación del gradiente y la dinámica de optimización.</li>
+                <li>Evaluar la estabilidad del entrenamiento mediante análisis de variabilidad entre ejecuciones y sensibilidad a hiperparámetros.</li>
+                <li>Validar la capacidad de generalización de la función propuesta en diferentes conjuntos de datos de clasificación.</li>
+                <li>Comparar CNN en combinación con la función propuesta ante una metodología que implique preprocesamiento con filtros de orden no entero.</li>
+                <li>Aplicar la función propuesta a una problemática con datos de naturaleza “más real”.</li>
+                <li>Analizar la transferencia de la propuesta hacia arquitecturas híbridas modernas basadas en CNN y Vision Transformers.</li>
+            </ol>
         </div>
-        <p class="mb-1 text-muted">Realizar una revisión sistemática de funciones de activación basadas en operadores clásicos y de orden no entero.</p>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>2. Formulación matemática</strong></h5>
-        </div>
-        <p class="mb-1 text-muted">Formular matemáticamente una función de activación basada en el operador derivada de orden no entero M-truncada.</p>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>3. Caracterización dinámica</strong></h5>
-        </div>
-        <p class="mb-1 text-muted">Caracterizar el efecto del parámetro no entero sobre la propagación del gradiente y la dinámica de optimización.</p>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>4. Análisis de estabilidad</strong></h5>
-        </div>
-        <p class="mb-1 text-muted">Evaluar la estabilidad del entrenamiento mediante análisis de variabilidad entre ejecuciones y sensibilidad a hiperparámetros.</p>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>5. Validación de generalización</strong></h5>
-        </div>
-        <p class="mb-1 text-muted">Validar la capacidad de generalización de la función propuesta en diferentes conjuntos de datos de clasificación.</p>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>6. Comparación metodológica</strong></h5>
-        </div>
-        <p class="mb-1 text-muted">Comparar CNN en combinación con la función propuesta ante una metodología que implique preprocesamiento con filtros de orden no entero.</p>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>7. Aplicación práctica</strong></h5>
-        </div>
-        <p class="mb-1 text-muted">Aplicar la función propuesta a una problemática con datos de naturaleza “más real”.</p>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>8. Transferencia a arquitecturas avanzadas</strong></h5>
-        </div>
-        <p class="mb-1 text-muted">Analizar la transferencia de la propuesta hacia arquitecturas híbridas modernas basadas en CNN y Vision Transformers.</p>
     </div>
 </div>
 

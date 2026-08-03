@@ -37,21 +37,12 @@ Desarrollar un modelo predictivo que analice cálculo fraccionario y lógica dif
 <div class="list-group mb-4">
     <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>1. Desarrollo experimental</strong></h5>
+            <ol>
+                <li>Desarrollar y validar experimentalmente un modelo de predicción basado en cálculo fraccionario.</li>
+                <li>Implementar un sistema difuso que permita mejorar la precisión del modelo.</li>
+                <li>Analizar y comparar el modelo basado en cálculo fraccionario y lógica difusa con el objetivo de mejorar la predicción de propiedades nutracéuticas.</li>
+            </ol>
         </div>
-        <p class="mb-1 text-muted">Desarrollar y validar experimentalmente un modelo de predicción basado en cálculo fraccionario.</p>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>2. Implementación de lógica difusa</strong></h5>
-        </div>
-        <p class="mb-1 text-muted">Implementar un sistema difuso que permita mejorar la precisión del modelo.</p>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>3. Evaluación y comparación</strong></h5>
-        </div>
-        <p class="mb-1 text-muted">Analizar y comparar el modelo basado en cálculo fraccionario y lógica difusa con el objetivo de mejorar la predicción de propiedades nutracéuticas.</p>
     </div>
 </div>
 
