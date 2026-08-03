@@ -21,7 +21,7 @@ related_publications: false
         <div class="card bg-light p-4 mb-4 shadow-sm border-0">
             <h3 class="text-primary font-weight-bold mb-3"><i class="fas fa-lightbulb"></i> Hipótesis</h3>
             <p class="lead mb-0">
-                El uso de derivadas fraccionarias M-truncadas, tanto de orden constante como variable, en la generalización del Kernel Gaussiano y el gradiente de una imagen, mejorará significativamente la precisión y eficacia en la detección de curvas y bordes en imágenes digitales médicas.
+                El uso de derivadas fraccionarias $\mathcal{M}$-truncadas, tanto de orden constante como variable, en la generalización del Kernel Gaussiano y el gradiente de una imagen, mejorará significativamente la precisión y eficacia en la detección de curvas y bordes en imágenes digitales médicas.
             </p>
         </div>
     </div>
@@ -38,7 +38,7 @@ Desarrollar una metodología de detección de bordes con base en operadores frac
     <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between">
             <ol>
-                <li>Generalizar el Kernel Gaussiano utilizando la derivada $\mathcal{M}-truncada fraccionaria con 3 órdenes para procesar y reconstruir imágenes.</li>
+                <li>Generalizar el Kernel Gaussiano utilizando la derivada $\mathcal{M}$-truncada fraccionaria con 3 órdenes para procesar y reconstruir imágenes.</li>
                 <li>Generalizar el gradiente de una imagen utilizando la derivada $\mathcal{M}$-truncada fraccionaria con 3 órdenes constantes y variables para la detección de curvas y bordes.</li>
                 <li>Desarrollar los algoritmos conformables y fraccionarios que permitan la detección de curvas y bordes.</li>
             </ol>
