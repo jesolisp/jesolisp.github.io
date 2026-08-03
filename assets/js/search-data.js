@@ -114,8 +114,8 @@ ninja.data = [{
           description: "Plan de Estudios de la Licenciatura en Matemáticas para el Desarrollo. Sistema Escolarizado. Modalidad Presencial",
           section: "Projects",handler: () => {
               window.location.href = "/projects/18_project/";
-            },},{id: "projects-19-project",
-          title: '19_project',
+            },},{id: "projects-análisis-de-imágenes-con-redes-neuronales-convolucionales-utilizando-funciones-de-activación-de-orden-no-entero",
+          title: 'Análisis de imágenes con redes neuronales convolucionales utilizando funciones de activación de orden...',
           description: "Instituto de Investigación en Ciencias Básicas y Aplicadas, UAEM.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/19_project/";
@@ -124,8 +124,8 @@ ninja.data = [{
           description: "Programación e implementación de esquemas numéricos en paralelo para soluciones aproximadas a ecuaciones diferenciales ordinarias así como parciales de orden fraccionario",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-20-project",
-          title: '20_project',
+            },},{id: "projects-estimación-de-propiedades-nutracéuticas-de-rodajas-de-manzana-deshidratada-utilizando-cálculo-fraccionario-y-sistemas-difusos-inteligentes",
+          title: 'Estimación de Propiedades Nutracéuticas de Rodajas de Manzana Deshidratada Utilizando Cálculo Fraccionario y...',
           description: "Tecnológico Nacional de México Campus Apizaco.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/20_project/";
