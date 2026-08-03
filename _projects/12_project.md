@@ -23,18 +23,16 @@ Sintonizar un controlador PI utilizando optimización por enjambre de partícula
 
 ## <i class="fas fa-tasks text-success"></i> Objetivos Específicos
 
-<div class="list-group mb-4">
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <ol>
-                <li>Conocer las técnicas de sintonización de controladores PI.</li>
-                <li>Conocer el comportamiento de un algoritmo de optimización (PSO).</li>
-                <li>Sintonizar controladores con el uso de algoritmos de optimización.</li>
-                <li>Analizar el desempeño de un controlador bajo el uso de algoritmos de  optimización.</li>
-                <li>Generar el código para su mostrar resultados.</li>
-                <li>Validar los resultados obtenidos con el código.</li>
-            </ol>
-        </div>
+<div class="card mb-4 border">
+    <div class="card-body">
+        <ol class="mb-0">
+            <li>Conocer las técnicas de sintonización de controladores PI.</li>
+            <li>Conocer el comportamiento de un algoritmo de optimización (PSO).</li>
+            <li>Sintonizar controladores con el uso de algoritmos de optimización.</li>
+            <li>Analizar el desempeño de un controlador bajo el uso de algoritmos de  optimización.</li>
+            <li>Generar el código para su mostrar resultados.</li>
+            <li>Validar los resultados obtenidos con el código.</li>
+        </ol>
     </div>
 </div>
 

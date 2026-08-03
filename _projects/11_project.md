@@ -18,7 +18,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-md-12">
-        <div class="card bg-light p-4 mb-4 shadow-sm border-0">
+        <div class="card bg-card p-4 mb-4 shadow-sm border">
             <h3 class="text-primary font-weight-bold mb-3"><i class="fas fa-lightbulb"></i> Hipótesis</h3>
             <p class="lead mb-0">
                 La aplicación de un algoritmo de optimización distinto (Levenberg-Marquardt) y un modelo matemático logarítmico sigmoidal mejora el coeficiente de determinación ($R^2$), lo que implica una mejor predicción.
@@ -34,16 +34,14 @@ Desarrollar modelos matemáticos (lineal y no lineales) para evaluar y mejorar e
 
 ## <i class="fas fa-tasks text-success"></i> Objetivos Específicos
 
-<div class="list-group mb-4">
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <ol>
-                <li>Entender y recuperar la base de datos experimental del proyecto desarrollado por Xu et al. [10], el cual presenta la descripción, la base de datos y los modelos matemáticos propuestos de la GSHP.</li>
-                <li>Identificar un diferenciador dentro del trabajo de investigación sobre la evaluación del desempeño de una GSHP y aplicar el algoritmo de optimización <strong>Levenberg-Marquardt</strong>.</li>
-                <li>Desarrollar modelos matemáticos que describan la velocidad de transferencia de energía de una bomba de calor geotérmica.</li>
-                <li>Analizar cada modelo matemático programado e identificar cuál presenta una mejor predicción.</li>
-            </ol>
-        </div>
+<div class="card mb-4 border">
+    <div class="card-body">
+        <ol class="mb-0">
+            <li>Entender y recuperar la base de datos experimental del proyecto desarrollado por Xu et al. [10], el cual presenta la descripción, la base de datos y los modelos matemáticos propuestos de la GSHP.</li>
+            <li>Identificar un diferenciador dentro del trabajo de investigación sobre la evaluación del desempeño de una GSHP y aplicar el algoritmo de optimización <strong>Levenberg-Marquardt</strong>.</li>
+            <li>Desarrollar modelos matemáticos que describan la velocidad de transferencia de energía de una bomba de calor geotérmica.</li>
+            <li>Analizar cada modelo matemático programado e identificar cuál presenta una mejor predicción.</li>
+        </ol>
     </div>
 </div>
 

@@ -23,16 +23,14 @@ Diseñar un sistema de monitoreo de CO2 de bajo costo para informar a los ocupan
 
 ## <i class="fas fa-tasks text-success"></i> Objetivos Específicos
 
-<div class="list-group mb-4">
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <ol>
-                <li>Establecer la comunicación entre un dispositivo de bajo costo CPU RISC de 32-bit y un sensor de CO2 NDIR.</li>
-                <li>Mostrar los niveles de concentración de CO2 de un espacio cerrado en una interfaz de visualización. </li>
-                <li>Diseñar una interfaz de comunicación inalámbrica entre el dispositivo de bajo costo.</li>
-                <li>Implementar el sistema de monitoreo en un aula cerrada de la universidad. </li>
-            </ol>
-        </div>
+<div class="card mb-4 border">
+    <div class="card-body">
+        <ol class="mb-0">
+            <li>Establecer la comunicación entre un dispositivo de bajo costo CPU RISC de 32-bit y un sensor de CO2 NDIR.</li>
+            <li>Mostrar los niveles de concentración de CO2 de un espacio cerrado en una interfaz de visualización. </li>
+            <li>Diseñar una interfaz de comunicación inalámbrica entre el dispositivo de bajo costo.</li>
+            <li>Implementar el sistema de monitoreo en un aula cerrada de la universidad. </li>
+        </ol>
     </div>
 </div>
 

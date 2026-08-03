@@ -18,7 +18,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-md-12">
-        <div class="card bg-light p-4 mb-4 shadow-sm border-0">
+        <div class="card bg-card p-4 mb-4 shadow-sm border">
             <h3 class="text-primary font-weight-bold mb-3"><i class="fas fa-lightbulb"></i> Hipótesis</h3>
             <p class="lead mb-0">
                 
@@ -33,26 +33,13 @@ related_publications: false
 
 ## <i class="fas fa-tasks text-success"></i> Objetivos Específicos
 
-<div class="list-group mb-4">
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>1. </strong></h5>
-        </div>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>2. </strong></h5>
-        </div>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>3. </strong></h5>
-        </div>
-    </div>
-    <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1 text-dark"><strong>4. </strong></h5>
-        </div>
+<div class="card mb-4 border">
+    <div class="card-body">
+        <ol class="mb-0">
+            <li> </li>
+            <li> </li>
+            <li> </li>
+        </ol>
     </div>
 </div>
 
