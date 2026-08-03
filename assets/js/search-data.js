@@ -129,6 +129,11 @@ ninja.data = [{
           description: "Tecnológico Nacional de México Campus Apizaco.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/20_project/";
+            },},{id: "projects-diseño-de-técnicas-de-procesamiento-fraccionarias-para-la-segmentación-y-mejora-de-calidad-en-imágenes-biomédicas",
+          title: 'Diseño de técnicas de procesamiento fraccionarias para la segmentación y mejora de calidad...',
+          description: "Centro Nacional de Investigación y Desarrollo Tecnológico, TecNM.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/21_project/";
             },},{id: "projects-papime-pe108324",
           title: 'PAPIME PE108324',
           description: "Diseño y desarrollo de un laboratorio de impresión 3D para la enseñanza",
