@@ -28,7 +28,7 @@ related_publications: false
 </div>
 
 ## <i class="fas fa-bullseye text-danger"></i> Objetivo General
-Desarrollar modelos matemáticos (lineal y no lineales) para evaluar y mejorar el desempeño de la tasa de transferencia de calor de una GSHP.
+Desarrollar modelos matemáticos (lineal y no lineales) para evaluar y mejorar el desempeño de la tasa de transferencia de calor de una GSHP. 
 
 ---
 
@@ -37,10 +37,10 @@ Desarrollar modelos matemáticos (lineal y no lineales) para evaluar y mejorar e
 <div class="card mb-4 border">
     <div class="card-body">
         <ol class="mb-0">
-            <li>Entender y recuperar la base de datos experimental del proyecto desarrollado por Xu et al. [10], el cual presenta la descripción, la base de datos y los modelos matemáticos propuestos de la GSHP.</li>
-            <li>Identificar un diferenciador dentro del trabajo de investigación sobre la evaluación del desempeño de una GSHP y aplicar el algoritmo de optimización <strong>Levenberg-Marquardt</strong>.</li>
-            <li>Desarrollar modelos matemáticos que describan la velocidad de transferencia de energía de una bomba de calor geotérmica.</li>
-            <li>Analizar cada modelo matemático programado e identificar cuál presenta una mejor predicción.</li>
+            <li>Entender y recuperar la base de datos experimental del proyecto desarrollado por Xu et al. [10] el cual presenta la descripción, la base de datos y los modelos matemáticos propuestos de la GSHP.</li>
+            <li>Identificar cual es uno de nuestros diferenciadores dentro del trabajo de investigación sobre la evaluación del desempeño de una GSHP. Y aplicar el algoritmo de optimización <strong>Levenberg-Marquardt</strong>.</li>
+            <li>Desarrollar modelos matemáticos que describan la velocidad de transferencia de energía de una bomba calor geotérmico.</li>
+            <li>Analizar cada modelo matemático programado e identificar cual presenta una mejor predicción.</li>
         </ol>
     </div>
 </div>

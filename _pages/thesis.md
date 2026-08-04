@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tesis
+title: Tesis y tesinas
 permalink: /thesis/
-description: Tesis de licenciatura, maestría y doctorado.
+description: Tesinas, tesis de licenciatura, maestría y doctorado.
 nav: true
 nav_order: 8
 display_categories: [Licenciatura, Maestría, Doctorado, Doctorado en desarrollo]
