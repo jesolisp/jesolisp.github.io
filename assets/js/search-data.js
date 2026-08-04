@@ -51,9 +51,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-tesis",
-          title: "Tesis",
-          description: "Tesis de licenciatura, maestría y doctorado.",
+        },{id: "nav-tesis-y-tesinas",
+          title: "Tesis y tesinas",
+          description: "Tesinas, tesis de licenciatura, maestría y doctorado.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/thesis/";
